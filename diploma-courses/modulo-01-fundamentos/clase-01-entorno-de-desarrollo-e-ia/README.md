@@ -240,6 +240,15 @@ graph LR
 ```
 ````
 
+Esto se renderiza como:
+
+```mermaid
+graph LR
+    A[Base de datos origen] --> B[Extraer datos]
+    B --> C[Transformar]
+    C --> D[Cargar en destino]
+```
+
 ### SDD como documentación técnica viva
 
 Cuando usas SDD en tu IDE, tu especificación se convierte en **documentación técnica viva**: no es un documento estático que se desactualiza, sino una descripción precisa de tu sistema que evoluciona junto con el código.
