@@ -381,4 +381,4 @@ El flujo completo es: primero diseñas la especificación (SDD), luego escribes 
 
 ---
 
-[Volver al módulo →](../README.md)
+[Volver al módulo →](../README.md) | [Siguiente clase: Terminal y Línea de Comandos →](../clase-02-terminal-cli/README.md)

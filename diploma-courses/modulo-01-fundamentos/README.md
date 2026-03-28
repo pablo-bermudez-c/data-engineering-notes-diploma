@@ -12,3 +12,4 @@ Este módulo cubre los conceptos y herramientas fundamentales que necesitas domi
 | # | Clase | Descripción |
 |---|-------|-------------|
 | 1 | [Entorno de Desarrollo e IA](clase-01-entorno-de-desarrollo-e-ia/README.md) | IDEs, VS Code, extensiones, Google Colab, asistentes de IA, SDD y TDD |
+| 2 | [Terminal y Línea de Comandos](clase-02-terminal-cli/README.md) | Navegación, exploración de datos, pipes, permisos, bash scripting y Cron |
