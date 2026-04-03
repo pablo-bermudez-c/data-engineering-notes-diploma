@@ -919,6 +919,3 @@ ORDER BY c.nombre;
 ```
 </details>
 
----
-
-*→ Próxima clase: Funciones de Agregación, GROUP BY y subconsultas*
