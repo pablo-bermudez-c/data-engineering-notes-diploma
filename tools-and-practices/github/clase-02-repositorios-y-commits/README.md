@@ -45,14 +45,14 @@ cd equipo-biomedico
 Git maneja tus archivos en tres áreas:
 
 ```
- Directorio de trabajo     Área de preparación        Repositorio
+ Directorio de trabajo     Área de preparación         Repositorio
  (Working Directory)          (Staging Area)           (Repository)
-┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
-│                  │     │                  │     │                  │
-│  Archivos que    │────>│  Archivos listos │────>│  Cambios         │
+┌──────────────────┐     ┌──────────────────┐      ┌──────────────────┐
+│                  │     │                  │      │                  │
+│  Archivos que    │────>│  Archivos listos │─────>│  Cambios         │
 │  modificas       │ add │  para confirmar  │commit│  guardados       │
-│                  │     │                  │     │  permanentemente  │
-└──────────────────┘     └──────────────────┘     └──────────────────┘
+│                  │     │                  │      │  permanentemente │
+└──────────────────┘     └──────────────────┘      └──────────────────┘
 ```
 
 1. **Directorio de trabajo** (*working directory*): donde editas tus archivos normalmente

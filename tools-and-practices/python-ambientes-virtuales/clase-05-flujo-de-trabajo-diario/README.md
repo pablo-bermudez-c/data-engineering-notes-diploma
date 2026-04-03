@@ -94,23 +94,23 @@ uv run main.py               # 5. Ejecutar código
 
 ```
 ┌─────────────────────────────────────────────────┐
-│                 Flujo diario                     │
-│                                                  │
-│   git pull                                       │
-│     │        (traer cambios del equipo)          │
-│     ▼                                            │
+│                 Flujo diario                    │
+│                                                 │
+│   git pull                                      │
+│     │        (traer cambios del equipo)         │
+│     ▼                                           │
 │   uv sync                                       │
-│     │        (actualizar dependencias si hubo    │
-│     │         cambios en pyproject.toml)         │
-│     ▼                                            │
-│   Escribir código / trabajar en notebooks        │
-│     │                                            │
-│     ▼                                            │
-│   uv run script.py                               │
-│     │        (ejecutar y probar)                 │
-│     ▼                                            │
-│   git add, commit, push                          │
-│              (compartir tu trabajo)              │
+│     │        (actualizar dependencias si hubo   │
+│     │         cambios en pyproject.toml)        │
+│     ▼                                           │
+│   Escribir código / trabajar en notebooks       │
+│     │                                           │
+│     ▼                                           │
+│   uv run script.py                              │
+│     │        (ejecutar y probar)                │
+│     ▼                                           │
+│   git add, commit, push                         │
+│              (compartir tu trabajo)             │
 └─────────────────────────────────────────────────┘
 ```
 

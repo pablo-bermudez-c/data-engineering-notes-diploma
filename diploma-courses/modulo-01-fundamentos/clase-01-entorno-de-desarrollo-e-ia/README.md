@@ -326,34 +326,34 @@ TDD sigue un ciclo de tres pasos que se repite constantemente:
 
 ```
 ┌──────────────────────────────────────────┐
-│       Ciclo TDD: Red-Green-Refactor       │
-│                                           │
-│          ┌──────────────┐                 │
-│          │  1. RED       │                 │
-│          │               │                 │
-│          │  Escribe un   │                 │
-│          │  test que     │                 │
-│          │  FALLE        │                 │
-│          └──────┬───────┘                 │
-│                 ▼                          │
-│          ┌──────────────┐                 │
-│          │  2. GREEN     │                 │
-│          │               │                 │
-│          │  Escribe el   │                 │
-│          │  código mín.  │                 │
-│          │  para PASAR   │                 │
-│          └──────┬───────┘                 │
-│                 ▼                          │
-│          ┌──────────────┐                 │
-│          │  3. REFACTOR  │                 │
-│          │               │                 │
-│          │  Mejora el    │                 │
-│          │  código sin   │──┐             │
-│          │  romper tests │  │             │
-│          └──────────────┘  │             │
-│                 ▲           │             │
-│                 └───────────┘             │
-│                (repetir)                  │
+│       Ciclo TDD: Red-Green-Refactor      │
+│                                          │
+│          ┌──────────────┐                │
+│          │  1. RED      │                │
+│          │              │                │
+│          │  Escribe un  │                │
+│          │  test que    │                │
+│          │  FALLE       │                │
+│          └──────┬───────┘                │
+│                 ▼                        │
+│          ┌──────────────┐                │
+│          │  2. GREEN    │                │
+│          │              │                │
+│          │  Escribe el  │                │
+│          │  código mín. │                │
+│          │  para PASAR  │                │
+│          └──────┬───────┘                │
+│                 ▼                        │
+│          ┌──────────────┐                │
+│          │  3. REFACTOR │                │
+│          │              │                │
+│          │  Mejora el   │                │
+│          │  código sin  │───┐            │
+│          │  romper tests│   │            │
+│          └──────────────┘   │            │
+│                 ▲           │            │
+│                 └───────────┘            │
+│                (repetir)                 │
 └──────────────────────────────────────────┘
 ```
 

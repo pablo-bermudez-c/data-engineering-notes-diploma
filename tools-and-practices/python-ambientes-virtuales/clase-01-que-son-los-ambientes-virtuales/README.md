@@ -54,7 +54,7 @@ SIN ambientes virtuales:              CON ambientes virtuales:
 ┌─────────────────────────┐           ┌──────────────┐  ┌──────────────┐
 │   Python del sistema    │           │ Proyecto A   │  │ Proyecto B   │
 │                         │           │              │  │              │
-│  pandas 2.0  (¿o 1.5?) │           │ pandas 1.5   │  │ pandas 2.0   │
+│  pandas 2.0  (¿o 1.5?)  │           │ pandas 1.5   │  │ pandas 2.0   │
 │  numpy 1.24             │           │ numpy 1.24   │  │ numpy 1.26   │
 │  matplotlib 3.7         │           │ matplotlib   │  │ plotly       │
 │                         │           │              │  │              │

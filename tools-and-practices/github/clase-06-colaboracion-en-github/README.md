@@ -100,8 +100,8 @@ El *code review* (revisión de código) es el proceso donde un compañero revisa
 
 ```
 ┌──────────────┐  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
-│  Por hacer   │  │  En progreso │  │  En revisión  │  │  Completado  │
-│  (To Do)     │  │ (In Progress)│  │  (In Review)  │  │   (Done)     │
+│  Por hacer   │  │  En progreso │  │  En revisión │  │  Completado  │
+│  (To Do)     │  │ (In Progress)│  │  (In Review) │  │   (Done)     │
 │              │  │              │  │              │  │              │
 │  Issue #3    │  │  Issue #5    │  │  PR #7       │  │  Issue #1    │
 │  Issue #4    │  │              │  │              │  │  Issue #2    │

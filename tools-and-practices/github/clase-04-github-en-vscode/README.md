@@ -25,7 +25,7 @@ VS Code tiene Git integrado. El ícono de **Control de código fuente** (*Source
 │    (vacío)                       │
 │                                  │
 │  [Message input box]             │
-│  [✓ Commit button]              │
+│  [✓ Commit button]               │
 └──────────────────────────────────┘
 ```
 
